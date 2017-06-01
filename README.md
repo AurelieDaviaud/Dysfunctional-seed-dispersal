@@ -11,7 +11,7 @@ There are two ways animal can disperse seeds:
 * via the gut (=endozoochory) and
 * via the hair or hooves (=epizoochory).
 
-In many parts of the world, plant species face a dysfunctional seed dispersal due to:
+In many parts of the world, animal-dispersed plant species face a dysfunctional seed dispersal due to:
 * the global extinction of their dispersers and/or
 * the local extinction of their dispersers.
 
