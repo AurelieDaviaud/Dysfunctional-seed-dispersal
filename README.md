@@ -22,3 +22,5 @@ In __Madagascar__, following Holocene extinctions (from ~2000 years  B.P.), a la
 2) We will estimate the __number of available dispersers__ (lemurs only) by matching the __distribution__ of plant species to the distribution of their potential dispersers. 
 
 *Data collection*: I performed a literature review, checked databases and examined herbarium specimens to gather data on seed dispersal, and traits and distribution of plants and frugivores in Madagascar.
+
+*IMPORTANT NOTE*: The data used for this project are private. Therefore, they won't be disclosed before the publication of the related article.
